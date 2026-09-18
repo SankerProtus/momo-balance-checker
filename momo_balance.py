@@ -1,6 +1,6 @@
 """A focused simulation of the MTN MoMo balance-check USSD process."""
 
-SECRET_PIN = "2345"  # Demo PIN only; never store a real PIN in source code.
+SECRET_PIN = "2345"  # Demo PIN 
 ACCOUNT_BALANCE = 1247.50  # Demo balance in Ghana cedis.
 MAX_ATTEMPTS = 3
 PIN_LENGTH = 4
